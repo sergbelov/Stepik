@@ -1,11 +1,11 @@
 Решения заданий с ресурса https://stepik.org
 
 # [Java. Базовый курс](https://stepik.org/course/187/syllabus)
->[Computer Science Center (CS центр)](https://stepik.org/org/compscicenter)<br>
+> [Computer Science Center (CS центр)](https://stepik.org/org/compscicenter)
 ## [StepikJavaBasicCourse](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)<br><br>
 
 # [Разработка веб сервиса на Java (часть 1)](https://stepik.org/course/146/syllabus)
->[Mail.Ru Group](https://stepik.org/org/mailru)<br>
+> [Mail.Ru Group](https://stepik.org/org/mailru)
 ## [StepikJavaWebServiceDevelopment1](https://github.com/sergbelov/Stepik/tree/StepikJavaWebServiceDevelopment1/StepikJavaWebServiceDevelopment1)<br>
 
 ### [Создание веб сервиса (stepik.org)](https://stepik.org/lesson/12196/step/12?unit=2765)
