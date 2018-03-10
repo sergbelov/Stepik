@@ -12,5 +12,3 @@
 
 ### [Работа с базами данных (stepik.org)](https://stepik.org/lesson/12405/step/15?unit=2835)
 [L3 JDBC ORM](https://github.com/sergbelov/Stepik/tree/StepikJavaWebServiceDevelopment1/StepikJavaWebServiceDevelopment1/L3%20JDBC%20ORM)<br><br>
-
-	
