@@ -1,8 +1,8 @@
 ﻿<html>
-<head>
-    <meta charset="UTF-8"/>
-    <title>L4.1: Jetty WebSocket Chat</title>
-    <script type="text/javascript">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>L4: Jetty WebSocket Chat</title>
+		<script type="text/javascript">
         var ws;
 
         function init() {
@@ -26,27 +26,27 @@
             ws.send(message);
             messageField.value = '';
         }
-    </script>
-</head>
-<body onload="init();">
-<div id="body">
-    <div id="menu">
-        <p class="welcome">
+		</script>
+	</head>
+	<body onload="init();">
+		<div id="body">
+			<div id="menu">
+				<p class="welcome">
             Welcome, <input id="username" value="anonymous"/>
-        </p>
+				</p>
 
-        <div style="clear: both"></div>
-    </div>
+				<div style="clear: both"></div>
+			</div>
 
-    <div id="chatbox">
-        <textarea id="messages" rows="20" cols="50" readonly="readonly"></textarea>
-    </div>
+			<div id="chatbox">
+				<textarea id="messages" rows="20" cols="50" readonly="readonly"></textarea>
+			</div>
 
-    <!--<form name="message" action="">-->
-    <form name="message" action="" onsubmit="sendMessage();return false;">
-        <input name="usermsg" type="text" id="message" size="40"/>
-        <input type="button" name="submitmsg" value="Send..." onclick="sendMessage();"/>
-    </form>
-</div>
-</body>
+			<!--<form name="message" action="">-->
+			<form name="message" action="" onsubmit="sendMessage();return false;">
+				<input name="usermsg" type="text" id="message" size="40"/>
+				<input type="button" name="submitmsg" value="Send..." onclick="sendMessage();"/>
+			</form>
+		</div>
+	</body>
 </html>
