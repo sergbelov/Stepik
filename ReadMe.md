@@ -4,13 +4,14 @@
 
 ## Java. Базовый курс 
 > [Computer Science Center (CS центр)](https://stepik.org/org/compscicenter)
-#### [stepik.org](https://stepik.org/course/187/syllabus) / [GitHub (StepikJavaBasicCourse)](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)
+#### [stepik.org](https://stepik.org/course/187/syllabus) | [GitHub (StepikJavaBasicCourse)](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)
 ### 1. Введение в Java
 ##### 1.3 Знакомство со средой разработки 
-###### 1.3.8 ([stepik.org](https://stepik.org/lesson/12756/step/1?unit=3104) / [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_1_3_8.java))
+1.3.8 ([stepik.org](https://stepik.org/lesson/12756/step/1?unit=3104) | [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_1_3_8.java))
 ### 2. Базовый синтаксис Java 
 ##### 2.1 Примитивные типы
-###### 2.1.6 ([stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/6?unit=3107) / [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_6.java))
+2.1.6 ([stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/6?unit=3107) | [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_6.java))
+2.1.8 ([stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/8?unit=3107) | [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_8.java))
 
 ---
 
