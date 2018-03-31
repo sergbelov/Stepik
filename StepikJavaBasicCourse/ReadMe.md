@@ -1,6 +1,8 @@
-# Решения заданий с ресурса https://stepik.org<br><br>
+# Решения заданий с ресурса [https://stepik.org](https://stepik.org)
 
 ---
-## [Java. Базовый курс](https://stepik.org/course/187/syllabus)
+
+## Java. Базовый курс 
 > [Computer Science Center (CS центр)](https://stepik.org/org/compscicenter)
-### [StepikJavaBasicCourse](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)<br><br><br>
+### [stepik.org](https://stepik.org/course/187/syllabus) | [GitHub (StepikJavaBasicCourse)](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)
+
