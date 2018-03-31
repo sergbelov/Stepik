@@ -17,7 +17,7 @@
 [GitHub (L1 Simple web server)](https://github.com/sergbelov/Stepik/tree/StepikJavaWebServiceDevelopment/StepikJavaWebServiceDevelopment1/L1%20Simple%20web%20server)<br>
 
 #### 2. Авторизация 
-[stepk.org]](https://stepik.org/lesson/12497/step/15?unit=2967) |
+[stepk.org](https://stepik.org/lesson/12497/step/15?unit=2967) |
 [GitHub (L2 Authorization)](https://github.com/sergbelov/Stepik/tree/StepikJavaWebServiceDevelopment/StepikJavaWebServiceDevelopment1/L2%20Authorization)<br>
 
 #### 3. Работа с базами данных 
