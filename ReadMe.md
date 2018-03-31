@@ -5,6 +5,9 @@
 ## [Java. Базовый курс](https://stepik.org/course/187/syllabus)
 > [Computer Science Center (CS центр)](https://stepik.org/org/compscicenter)
 ### [StepikJavaBasicCourse](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)<br><br><br>
+#### Введение в Java
+##### [1.3 Знакомство со средой разработки](https://stepik.org/lesson/12756/step/1?unit=3104)<br>
+[Код на GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_1_3_8.java)
 
 ---
 
