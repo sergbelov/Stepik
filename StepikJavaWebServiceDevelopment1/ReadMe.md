@@ -1,3 +1,5 @@
+# Решения заданий с ресурса https://stepik.org<br><br><br><br>
+
 ## [Разработка веб сервиса на Java (часть 1)](https://stepik.org/course/146/syllabus)
 > [Mail.Ru Group](https://stepik.org/org/mailru)
 ### [StepikJavaWebServiceDevelopment1](https://github.com/sergbelov/Stepik/tree/StepikJavaWebServiceDevelopment/StepikJavaWebServiceDevelopment1)<br>
@@ -13,5 +15,3 @@
 
 #### [Асинхронное клиент-серверное взаимодействие (stepik.org)](https://stepik.org/lesson/12402/step/1?unit=2832)
 [L4 WebSockets](https://github.com/sergbelov/Stepik/tree/StepikJavaWebServiceDevelopment/StepikJavaWebServiceDevelopment1/L4%20WebSockets)<br><br>
-
-
