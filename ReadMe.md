@@ -2,7 +2,7 @@
 
 ---
 
-## [Java. Базовый курс](https://stepik.org/course/187/syllabus)
+## Java. Базовый курс [stepik](https://stepik.org/course/187/syllabus) | [GitHub](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)
 > [Computer Science Center (CS центр)](https://stepik.org/org/compscicenter)
 ### [StepikJavaBasicCourse](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)<br><br><br>
 #### Введение в Java
