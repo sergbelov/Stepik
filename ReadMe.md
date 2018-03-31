@@ -5,30 +5,41 @@
 ## Java. Базовый курс 
 > [Computer Science Center (CS центр)](https://stepik.org/org/compscicenter)
 #### [stepik.org](https://stepik.org/course/187/syllabus) | [GitHub (StepikJavaBasicCourse)](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)
+
 ### 1. Введение в Java
-##### [1.3 Знакомство со средой разработки](https://stepik.org/lesson/12756/step/1?unit=3104)
+#### [1.3 Знакомство со средой разработки](https://stepik.org/lesson/12756/step/1?unit=3104)
 1.3.8 
 [stepik.org](https://stepik.org/lesson/12756/step/1?unit=3104) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_1_3_8.java)
+
 ### 2. Базовый синтаксис Java 
-##### [2.1 Примитивные типы](https://stepik.org/lesson/12759/step/1?unit=3107)
+
+#### [2.1 Примитивные типы](https://stepik.org/lesson/12759/step/1?unit=3107)
 2.1.6 
-[stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/6?unit=3107) | 
+[stepik.org](https://stepik.org/lesson/12759/step/6?unit=3107) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_6.java)<br>         
 2.1.8 
-[stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/8?unit=3107) | 
+[stepik.org](https://stepik.org/lesson/12759/step/8?unit=3107) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_8.java)<br>
 2.1.12 
-[stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/12?unit=3107) | 
+[stepik.org](https://stepik.org/lesson/12759/step/12?unit=3107) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_12.java)<br>
 2.1.15 
-[stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/15?unit=3107) | 
 [stepik.org](https://stepik.org/lesson/12759/step/15?unit=3107) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_15.java)<br>
-##### [2.2 Преобразование типов](https://stepik.org/lesson/12760/step/1?unit=3108)
+
+#### [2.2 Преобразование типов](https://stepik.org/lesson/12760/step/1?unit=3108)
 2.2.3 
 [stepik.org](https://stepik.org/lesson/12760/step/3?unit=3108) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_2_3.java)<br>
+2.2.9 
+[stepik.org](https://stepik.org/lesson/12760/step/9?unit=3108) | 
+[GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_2_9.java)<br>
+
+#### [2.3 Массивы и строки](https://stepik.org/lesson/12761/step/1?unit=3109)
+2.3.10 
+[stepik.org](https://stepik.org/lesson/12761/step/10?unit=3109) | 
+[GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_3_10.java)<br>
 
 ---
 
