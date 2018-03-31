@@ -1,5 +1,6 @@
-# Решения заданий с ресурса https://stepik.org<br><br><br><br>
+# Решения заданий с ресурса https://stepik.org<br><br>
 
+---
 ## [Разработка веб сервиса на Java (часть 1)](https://stepik.org/course/146/syllabus)
 > [Mail.Ru Group](https://stepik.org/org/mailru)
 ### [StepikJavaWebServiceDevelopment1](https://github.com/sergbelov/Stepik/tree/StepikJavaWebServiceDevelopment/StepikJavaWebServiceDevelopment1)<br>
