@@ -41,6 +41,20 @@
 [stepik.org](https://stepik.org/lesson/12761/step/10?unit=3109) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_3_10.java)<br>
 
+#### [2.4 Управляющие конструкции: условные операторы и циклы](https://stepik.org/lesson/12762/step/1?unit=3110)
+2.4.8 
+[stepik.org](https://stepik.org/lesson/12762/step/8?unit=3110) | 
+[GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_4_8.java)<br>
+2.4.9 
+[stepik.org](https://stepik.org/lesson/12762/step/9?unit=3110) | 
+[GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_4_9.java)<br>
+2.4.10 
+[stepik.org](https://stepik.org/lesson/12762/step/10?unit=3110) | 
+[GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_4_10.java)<br>
+
+
+
+
 ---
 
 ## [Разработка веб сервиса на Java (часть 1)](https://stepik.org/course/146/syllabus)
