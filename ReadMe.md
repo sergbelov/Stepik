@@ -4,11 +4,10 @@
 
 ## Java. Базовый курс 
 > [Computer Science Center (CS центр)](https://stepik.org/org/compscicenter)
-[stepik.org](https://stepik.org/course/187/syllabus) 
-[GitHub (StepikJavaBasicCourse)](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)
-#### Введение в Java
-##### [1.3 Знакомство со средой разработки](https://stepik.org/lesson/12756/step/1?unit=3104)<br>
-[Код на GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_1_3_8.java)
+#### [stepik.org](https://stepik.org/course/187/syllabus) 
+#### [GitHub (StepikJavaBasicCourse)](https://github.com/sergbelov/Stepik/tree/StepikJavaBasicCourse/StepikJavaBasicCourse)
+### 1. Введение в Java
+##### 1.3 Знакомство со средой разработки [stepik.org](https://stepik.org/lesson/12756/step/1?unit=3104) | [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_1_3_8.java)
 
 ---
 
