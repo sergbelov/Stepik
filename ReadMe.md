@@ -12,10 +12,10 @@
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_1_3_8.java)
 ### 2. Базовый синтаксис Java 
 ##### [2.1 Примитивные типы](https://stepik.org/lesson/12759/step/1?unit=3107)
-2.1.6  
+2.1.6 
 [stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/6?unit=3107) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_6.java)<br>
-2.1.8  
+2.1.8 
 [stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/8?unit=3107) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_8.java)<br>
 2.1.12 
@@ -25,7 +25,7 @@
 [stepik.org](https://stepik.org/lesson/%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-12759/step/15?unit=3107) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_1_15.java)<br>
 ##### [2.2 Преобразование типов](https://stepik.org/lesson/12760/step/1?unit=3108)
-2.2.3  
+2.2.3 
 [stepik.org](https://stepik.org/lesson/12760/step/3?unit=3108) | 
 [GitHub](https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/https://github.com/sergbelov/Stepik/blob/StepikJavaBasicCourse/StepikJavaBasicCourse/src/main/java/ru/stepik/javaBasicCourse/StepikJavaBasic_2_2_3.java)<br>
 
